@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "C:\\BankingApp_git\\BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "C:\\BankingApp\\BankingApp.csproj",
+      "projectPath": "C:\\BankingApp_git\\BankingApp.csproj",
       "packagesPath": "C:\\Users\\2176491\\.nuget\\packages\\",
-      "outputPath": "C:\\BankingApp\\obj\\",
+      "outputPath": "C:\\BankingApp_git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2176491\\AppData\\Roaming\\NuGet\\NuGet.Config",
